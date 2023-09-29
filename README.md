@@ -1,1 +1,2 @@
 # odin-recipes
+This first HTML project requires me to make a recipe website.I am sure I will be able to use all of the skills and knowledge I've been gathering until now such as linking to different pages,adding images,making lists and more.
